@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Amanuel2537
+- 👋 Hi, I’m @Amanuel Samuel Zemedkun
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning programming 
+- 🌱 I’m a Fullstack Web Developer and Data Analyst
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Amanuel2537/Amanuel2537 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
