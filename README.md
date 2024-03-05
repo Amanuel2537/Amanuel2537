@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Amanuel Samuel Zemedkun
-- 👀 I’m interested in coding
-- 🌱 I’m a Fullstack Web Developer and Data Analyst
-- 💞️ I’m looking to collaborate on ...
+
 ![Header](./your-header-image-name.png)
 
 
